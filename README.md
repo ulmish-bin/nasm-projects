@@ -1,4 +1,4 @@
-# Simple windows Nasm projects
+# Simple Windows Nasm projects
 
 # Description
 Samples for free usage when combining multiple elements into one project.
